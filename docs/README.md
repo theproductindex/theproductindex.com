@@ -9,7 +9,6 @@ color: 4B6584
 image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
 ---
 
-
 In todays tech industry, great Product Management is not longer optional. What it used to be a competitive advantage now is a must-do for all companies that want to stay competitive.
 
 Product Management is all about building the right product. How to build the product right is important, but if your customers don't care about your product it doesn't matter.
@@ -24,8 +23,8 @@ Moreover, the role of a Product Manager is still vague. The nature of the role m
   - [Technology](#technology)
   - [User Experience](#user-experience)
 - [What they do?](#what-they-do)
-	- [Product Manager vs. Project Manager](#product-manager-vs-project-manager)
-	- [Product Manager vs. Product Marketing Manager](#product-manager-vs-product-marketing-manager)
+- [Product Manager vs. Project Manager](#product-manager-vs-project-manager)
+- [Product Manager vs. Product Marketing Manager](#product-manager-vs-product-marketing-manager)
 - [Types of Product Managers](#types-of-product-managers)
   - [Internal Product Manager](#internal-product-manager)
   - [Business to Business Product Manager](#business-to-business-product-manager)
@@ -74,15 +73,15 @@ Once the product is out, Product Managers need to know how customers are using t
 
 This is what they do, over and over again.
 
-### Product Manager vs. Project Manager
+## Product Manager vs. Project Manager
 
 This is the most common confusion. Project managers are responsible for accomplishing the project. A project usually has a timeline and a budget as a constraint.
 
 Product Managers are responsible for the success of the product, which is measured by key performance indicators (KPIs). However, they need the skill of project management to manage product releases.
 
-### Product Manager vs. Product Marketing Manager
+## Product Manager vs. Product Marketing Manager
 
-Product Marketing Managers are responsible for telling the world about that product. This include positioning, messaging, pricing product launches. They also provide tools for selling the product and leading marketing programs.
+Product Marketing Managers are responsible for telling the world about that product. This include positioning, messaging and pricing and managing product launches. They also provide tools for selling the product and leading marketing programs.
 
 Product managers are responsible for validating the product with real customers and users.
 
@@ -90,7 +89,9 @@ They both need to work very closely, especially, during product launches.
 
 ## Types of Product Managers
 
-A common way to classify Product Managers is their relationship with *stakeholders*. Stakeholders are the people that have input on the product.
+A common way to classify Product Managers is stakeholders relationship. Stakeholders are the people that have input on the product.
+
+The different types are:
 
 ### Internal Product Manager
 
@@ -118,11 +119,10 @@ The number of users is often high, so the risk is higher.
 
 This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
 
-Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehuD1EBGG46).
+Do you have any feedback? Please, let us know [here]().
 
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What, exactly, is a Product Manager" by Martin Eriksson](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a product manager and what do they do?" by Geoffrey Keating](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/ref=sr_1_5)|
-|![](https://img.icons8.com/ios/50/000000/book.png)|["The Product Book" by Product School, Chapter 1](https://www.productschool.com/the-product-book/)|

@@ -1,0 +1,66 @@
+---
+layout: default-home
+---
+
+<div class="home">
+  
+  <div class="home-header">
+    <h2>The <b>product</b> index</h2>
+    <span>An open and organized directory of the best pieces about Product Management.</span>
+  </div>
+  
+
+  {%- if site.pages.size > 0 -%}
+    <ul class="post-list">
+      {%- for page in site.pages -%}
+      {% if page.type contains "home-section" %}
+      <li style="background-image: url({{ page.image }}); order: {{ page.order }}" order="{{ page.order }}">
+
+        <h3>{{ page.title | escape }}</h3>
+        <span>{{ page.excerpt }}</span>
+
+        <a style="color: #{{ page.color }}" href="{{ page.url | relative_url }}">Start to read</a>
+        <div class="color-back" style="background-color: #{{ page.color }}"></div>
+      </li>
+
+      {% endif %}
+      {%- endfor -%}
+      <li style="order: 12; background-color: #FFE86D" order="12" class="email_form">
+        <img src="/assets/images/notification.png">
+
+        <h3>Never miss an update</h3>
+        <span>Subscribe for the latest news and product updates. We respect your privacy. No spam!</span>
+
+        <span class="done" style="display: none;">Subscribed!</span>
+        <input type="email" name="email" id="email">
+        <a style="color: #FFE86D" href="#" id="subscribe">Subscribe Now</a>
+      </li>
+    </ul>
+    <div class="contributors-home">
+      <h2>Contributors</h2>
+      <span>This is an open-source project. You can help keep this content up to date adding new resources and content.</span>
+      <ul class="contributors-list-home">
+        {% for contributor in site.github.contributors %}
+          <li><a href="{{contributor.html_url}}" target="_blank"><img src="{{ contributor.avatar_url }}" /></a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {%- endif -%}
+  <script>
+    document.querySelector('#subscribe').onclick = event => {
+      event.preventDefault();
+      fetch("https://api.sidemail.io/v1/hostedforms/5d7f9d4a289e3d00fc6449e4/submit", {
+        method: "post", 
+        body: JSON.stringify({ emailAddress: document.querySelector('#email').value }),
+        headers: {
+            "Content-Type": "application/json",
+        },
+        mode: "cors",
+      }).then(response => {
+        document.querySelector('#subscribe').style.display = 'none';
+        document.querySelector('#email').style.display = 'none';
+        document.querySelector('.done').style.display = 'block';
+      })
+    }
+</script>
+</div>

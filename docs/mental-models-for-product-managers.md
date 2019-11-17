@@ -4,7 +4,7 @@ title: Mental Models for Product Managers
 excerpt: How to make intelligent decisions? Learn the mental models for Product Managers.
 
 type: home-section
-order: 13
+order: 12
 color: af5454
 image: https://images.unsplash.com/photo-1530973428-5bf2db2e4d71?fit=crop&w=300&q=80
 ---

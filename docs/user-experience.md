@@ -1,7 +1,7 @@
 ---
 layout: page
-title: User Experience (UX)
-excerpt: How do you bring to life your product's feature set? Learn what makes a great UX.
+title: Define the User Experience (UX)
+excerpt: How to show product benefits to your customers? Learn what makes a great UX.
 
 type: home-section
 order: 7
@@ -14,7 +14,7 @@ The last key aspect before moving to product development is *User Experience* (U
 
 As users, we all have experienced products with poor UX. They feel unintuitive and hard to use. They may have dead ends and cryptic messages. In contrast, products with great UX makes easy to understand what to do next. They make customers feel they are great at their job.
 
-The feature set at this point is clear. Product Managers need to work side by side with designers to make a product that is easy to use and enjoyable.
+The feature set at this point is clear.  Product Managers need to work side by side with designers to make a product that is easy to use and enjoyable.
 
 The goal is to deliver a product that is both usable and delightful.
 
@@ -22,7 +22,7 @@ The goal is to deliver a product that is both usable and delightful.
 <div class="table-of-content">
 
 ### On this section
-- [What Makes A Great User Experience (UX)](#what-makes-a-great-user-experience-ux)
+- [A Great User Experience (UX)](#a-great-user-experience-ux)
 	- [Usability](#usability)
 	- [Delight](#delight)
 - [The Minimum Viable Product (MVP) and UX](#minimum-viable-product-mvp-and-ux)
@@ -35,9 +35,9 @@ The goal is to deliver a product that is both usable and delightful.
 </div>
 
 
-## What Makes A great User Experience (UX)
+## A great User Experience (UX)
 
-*User Experience* (UX) defines why a product exists in the first place. It fulfills a need or solves a problem people have in a meaningful way. The solution describes how to solve the uncovered problem. This problem-solution-fit defines the core UX of the product. The feature set extends and supports this core UX but it cannot replace it.
+UX defines why a product exists in the first place. It fulfills a need or solves a problem people have in a meaningful way. The solution describes how to solve the uncovered problem. This problem-solution-fit defines the core UX of the product. The feature set extends and supports this core UX but it cannot replace it.
 
 UX design aims to create a product that is easy to use and valuable. But the product must address the functionality and benefits that customers value. UX should make these benefits obvious.
 

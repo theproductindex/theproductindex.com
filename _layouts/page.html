@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<article class="post" style="--section-color: #{{ page.color }}; --section-color-alpha: #{{ page.color }}1f;">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <span class="excerpt">{{ page.excerpt }}</span>
+
+    <div class="post-metadata">
+      <div class="contributors">
+        <ul class="contributors-list">
+          {% for contributor in site.github.contributors %}
+            <li><img src="{{ contributor.avatar_url }}" /></li>
+          {% endfor %}
+        </ul>
+        <span class="top-contributors">Top contributors</span>
+        <span class="post-date">Updated {{ page.last_modified_at | timeago }} - <a href="{{ site.github.repository_url }}/tree/master/{{ page.path }}">Edit</a></span>
+      </div>
+      <span class="to-read">
+        {% assign words = content | strip_html | number_of_words %}
+        {{ words | divided_by: 180 | plus: 1 }} min read
+      </span>
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+  {%- for section in site.pages -%}
+    {% if section.type contains "home-section" %}
+    {% assign addition = page.order | plus: 1 %}
+    {% if section.order == addition %}
+      <div class="next-section" style="--next-section-color: #{{ section.color }}; --next-section-color-alpha: #{{ section.color }}1f">
+        <div class="wrapper">
+          <span class="post-title">{{ section.title | escape }}</span>
+          <span class="excerpt">{{ section.excerpt }}</span>
+          <a style="color: #{{ section.color }}" href="{{ section.url | relative_url }}">Read Next Section</a>
+        </div>
+      </div>
+    {% endif %}
+    {% endif %}
+  {%- endfor -%}
+</article>
