@@ -27,7 +27,7 @@ Moreover, the role of a Product Manager is still a little vague. The nature of t
   - [Internal Product Manager](#internal-product-manager)
   - [Business to Business Product Manager](#business-to-business-product-manager)
   - [Busines to Consumer Product Manager](#business-to-consumer-product-manager)
-- [The Product Manager's DNA](#the-product-managers-DNA)
+<!-- - [The Product Manager's DNA](#the-product-managers-DNA) -->
 
 </div>
 
