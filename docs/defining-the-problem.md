@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mastering the problem space
-excerpt: Which is your product's value proposition? Learn why you need to focus on the problem first.
+excerpt: What problem are you trying to solve? Learn how to avoid solution pollution.
 
 type: home-section
 order: 2
