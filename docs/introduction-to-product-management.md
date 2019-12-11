@@ -114,10 +114,19 @@ This is a first draft and a just a glance of what Product Management is. Take th
 
 Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehuD1EBGG46).
 
-## Resources
+## References
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What, exactly, is a Product Manager" by Martin Eriksson](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a product manager and what do they do?" by Geoffrey Keating](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Product Manager vs Product Owner" by Melissa Perri](https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d)|7 min read|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/ref=sr_1_5)|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Product Book" by Product School, Chapter 1](https://www.productschool.com/the-product-book/)|
+
+## Additional Resources
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Dear Junior Product Manager..." by Lilly M. Dobreva](https://medium.com/swlh/dear-junior-product-manager-3feefb3e872f)|3 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What Is a Product Manager, Actually?" by Alex Valaitis](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575)|8 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What People Don’t Tell You About Product Management" by Jason Shen](https://medium.com/better-humans/what-people-dont-tell-you-about-product-management-b87bc11b1865)|15 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What’s in the DNA of Product People?" by Jase Clamp](https://www.mindtheproduct.com/whats-in-the-dna-of-product-people)|8 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["A Simple Trick to Make You A More Efficient Product Manager" by Lilly M. Dobreva](https://medium.com/mytake/a-simple-trick-to-make-you-a-more-efficient-product-manager-8af313ca0777?)|2 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Product Distribution Models" by Clement Kao](https://www.productmanagerhq.com/2019/09/product-distribution-models/)|8 min read|
