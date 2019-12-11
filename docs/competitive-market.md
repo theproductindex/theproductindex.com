@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Competitive & Market Analysis
-excerpt: What makes your product different? How promising is the market? Learn to understand the market and your competitors.
+title: Competitive and Market Analysis
+excerpt: What makes your product unique? Learn why understanding the market is so important.
 
 type: home-section
 order: 3
@@ -13,7 +13,7 @@ A critical part of a Product Manager's job is making sure that the market they a
 
 Understanding market size and how to penetrate that market is key. If the market is too small, it would be hard to make money no matter how innovative or competitive the product is. If the market is too big, it would be wiser to segment that market to better focus the team's effort. The two approaches to size the market are *top down* and *bottom up* analyses.
 
-At times, it is important to make a distinction. The people that use the product, the *users*, may not be the same that pay for the product, the *customers*. In this case, defining the target buyer also is critical.
+At times, it is important to make a distinction. The people that use the product, the *users*, may not be the same that pay for the product, the *customers*. In this case, defining the target buyer is also critical.
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
@@ -54,7 +54,7 @@ A bottom up analysis starts by estimating potential sales. Based on current mark
 
 While it takes more effort, the result is usually much more accurate and conservative. The goal is to determine an estimated total sales figure.
 
-**Steps:**
+**Steps**
 1. Ask yourself where people currently buy, solve, or pay for a similar solution.
 2. Look for the sales volume for existing solutions. There must be at least similar offerings.
 3. Make a conservative assumption and calculate the percentage that you could get in a specific timeframe.
@@ -67,7 +67,7 @@ A top down analysis starts by determining the total market size. Then, estimatin
 
 While this approach is very straightforward, it is also too optimistic.
 
-**Steps:**
+**Steps**
 1. Calculate the current Total Addressable Market (TAM).
 2. Make an assumption and calculate the percentage that you could get of that TAM.
 
@@ -93,11 +93,11 @@ Then the goal is understand their strengths and weaknesses and keep an eye on th
 
 At times, some competitors might not be that obvious to find. They might be using different keywords or wording to market their product or have a weak brand presence.
 
-In any case, there are a few good techniques to find competitors:
+Here are a few techniques to find competitors:
 
-1. Search exactly how the customer would complain about her problem.
-2. Search on popular sites where people talk about their problems. These are Reddit, Quora, Twitter or Hacker News.
-3. Search exact phrases of your one-line pitch. Try multiple variations.
+* Search exactly how the customer would complain about her problem.
+* Search on popular sites where people talk about their problems. These are [Reddit](https://www.reddit.com/), [Quora](https://www.quora.com/), [Twitter](https://twitter.com/) or [Hacker News](https://news.ycombinator.com/).
+* Search exact phrases of your one-line pitch. Try multiple variations.
 
 ### Competitors Types
 
@@ -141,8 +141,14 @@ This is a first draft and a just a glance of what Competitive and Market Analysi
 
 Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehuD1EBGG46).
 
-## Resources
+## References
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Bottom Up or Top Down Market Analysis: Which Should You Use?" by Jeff Haden](https://www.inc.com/jeff-haden/bottom-up-or-top-down-market-analysis-which-should-you-use.html)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Market Size Estimation" by Michael Brown](https://www.planprojections.com/projections/market-size-estimation/)|7 min read|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Product Playbook" by Dan Olsen, Chapter 3](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)|
+
+## Additional Resources
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to Stop Playing ‘Target Market Roulette’: A new addition to the Lean toolset" by Steve Blank](https://medium.com/@sgblank/how-to-stop-playing-target-market-roulette-a-new-addition-to-the-lean-toolset-db37248ad127)|9 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Evaluating Market Dynamics with the Startup Scorecard" by Neal Cabage](https://www.mindtheproduct.com/market-dynamics/)|3 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["User Vs. Customer: Does It Matter?" by Kate Kiefer Lee](https://www.forbes.com/sites/katelee/2012/10/18/user-vs-customer-does-it-matter/#3ce2781b5dcd)|2 min read|
