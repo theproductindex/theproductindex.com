@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mental Models for Product Managers
-excerpt: How to make intelligent decisions? Learn the mental models for Product Managers.
+excerpt: How to make better decisions? Learn how mental models help Product Managers.
 
 type: home-section
 order: 13
