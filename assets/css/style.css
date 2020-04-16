@@ -616,34 +616,26 @@ blockquote {
         margin: 0 20px 0 0px; } }
   .email_form span {
     margin-top: 15px; }
-  .email_form .done {
-    position: absolute !important;
-    bottom: 80px !important;
-    display: block;
-    width: calc(100% - 40px) !important;
-    margin: 0px;
-    text-align: center; }
-  .email_form input {
-    width: calc(100% - 40px);
+  .email_form .email {
     background: #fff;
     padding: 15px 10px;
     font-size: 20px;
     border: 0px;
-    box-sizing: border-box;
-    position: absolute;
-    bottom: 80px;
-    z-index: 2;
-    left: 20px; }
-    @media screen and (max-width: 800px) {
-      .email_form input {
-        padding: 10px 10px;
-        font-size: 18px;
-        bottom: 58px; } }
-  .email_form a {
-    background-color: #4D4949 !important;
-    width: calc(100% - 40px);
-    box-sizing: border-box;
-    text-align: center; }
+    box-sizing: border-box; }
+
+.post-list #mc_embed_signup .button {
+  background-color: #4D4949 !important;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 8px;
+  padding: 7px 20px;
+  display: block;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 0; }
+
+#mc_embed_signup .mc-field-group label {
+  font-size: 15px; }
 
 .contributors-home {
   margin: 50px 0 0 0; }
