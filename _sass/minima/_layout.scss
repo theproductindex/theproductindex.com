@@ -572,40 +572,50 @@ blockquote {
     margin-top: 15px
   }
 
-  .done {
-    position: absolute !important;
-    bottom: 80px !important;
-    display: block;
-    width: calc(100% - 40px) !important;
-    margin: 0px;
-    text-align: center;
-  }
+  // .done {
+  //   position: absolute !important;
+  //   bottom: 80px !important;
+  //   display: block;
+  //   width: calc(100% - 40px) !important;
+  //   margin: 0px;
+  //   text-align: center;
+  // }
 
-  input {
-    width: calc(100% - 40px);
+  .email {
+    // width: calc(100% - 40px);
     background: #fff;
     padding: 15px 10px;
     font-size: 20px;
     border: 0px;  
     box-sizing: border-box;
-    position: absolute;
-    bottom: 80px;
-    z-index: 2;
-    left: 20px;
+    // position: absolute;
+    // bottom: 80px;
+    // z-index: 2;
+    // left: 20px;
 
-    @media screen and (max-width: $on-large) {
-      padding: 10px 10px;
-      font-size: 18px;
-      bottom: 58px;
-    }
+  //   @media screen and (max-width: $on-large) {
+  //     padding: 10px 10px;
+  //     font-size: 18px;
+  //     bottom: 58px;
+  //   }
   }
+}
 
-  a {
-    background-color: $text-color !important;
-    width: calc(100% - 40px);
+
+.post-list #mc_embed_signup .button {
+  background-color: $text-color !important;
     box-sizing: border-box;
     text-align: center;
-  }
+    border-radius: 8px;
+    padding: 7px 20px;
+    display: block;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 0;
+}
+
+#mc_embed_signup .mc-field-group label {
+  font-size: 15px;
 }
 
 .contributors-home {
