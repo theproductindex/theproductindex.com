@@ -33,7 +33,7 @@ plugins:
 
 google_analytics: UA-144584240-1
 
-repository: loverajoel/theproductindex
+repository: theproductindex/theproductindex.com
 
 jekyll_timeago:
   depth: 1
