@@ -19,7 +19,7 @@ Mastering the problem space is the best way to avoid focusing on solutions and n
 <div class="table-of-content">
 ### On this section
 - [Problem Space vs. Solution Space](#problem-space-vs-solution-space)
-- [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
+- [The Product/Market Fit Pyramid](#the-product-market-fit-pyramid)
 - [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
 
 </div>
@@ -40,7 +40,7 @@ The job of Product Managers is to read between lines in the solution space to de
 
 Marc Andreesen coined the term Product/Market Fit as *"being in a good market with a product that can satisfy that market"* in a well-known [blog post](https://pmarchive.com/guide_to_startups_part4.html).
 
-But this doesn't say much about how to get there. That's why Dan Olsen created a framework called *Product/Market Fit Pyramid*.
+But this doesn't say much about how to get there. That's why [Dan Olsen](https://dan-olsen.com/) created a framework called *Product/Market Fit Pyramid*.
 
 This framework separates the key components in 5 layers. Each layer depends on the layer immediately beneath it. Each layer is a hypothesis you need to confirm before moving up:
 

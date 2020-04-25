@@ -81,7 +81,7 @@ This model provides a helpful way to categorize what to address. *Performance be
 
 This hierarchy and the always-changing needs of customers reveals an important aspect of the Kano model:
 
-> Needs migrate over time. Yesterday's delighters become today's performance features and tomorrow's must-haves — Dan Olsen
+> Needs migrate over time. Yesterday's delighters become today's performance features and tomorrow's must-haves — [Dan Olsen](https://dan-olsen.com/)
 
 As a Product Manager, you need to articulate how your product is going to be better from the current alternatives. Only after, you can define the feature set that delivers on your value proposition.
 
@@ -100,7 +100,7 @@ Finally, choose the feature set that should be part of your MVP candidate. It sh
 ![](images/mvp_pyramid.png "The MVP Pyramid")
 <span>[From Dan Olsen's book. Resources section.](#resources)</span>
 
-> While an MVP has limited functionality, it should be complete by addressing those three higher-level attributes — Dan Olsen
+> While an MVP has limited functionality, it should be complete by addressing those three higher-level attributes — [Dan Olsen](https://dan-olsen.com/)
 
 As a Product Manager, keep in mind that an MVP has to create value for the target customer. This means that a limited feature set should not be an excuse for a mediocre product.
 
