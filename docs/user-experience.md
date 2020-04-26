@@ -94,7 +94,7 @@ As Product Managers, you need to help your team understand that they are not goi
 
 ## The UX Design Iceberg
 
-*The UX Design Iceberg* is a framework created by Dan Olsen. The analogy of an iceberg helps understand that only a part of UX design is visible to customers. Yet, there are other critical components to define before getting to the surface.
+*The UX Design Iceberg* is a framework created by [Dan Olsen](https://dan-olsen.com/). The analogy of an iceberg helps understand that only a part of UX design is visible to customers. Yet, there are other critical components to define before getting to the surface.
 
 ![](images/ux-design-iceberg.png "The UX Design Iceberg")
 <span>[From Dan Olsen's book. Resources section.](#resources)</span>
