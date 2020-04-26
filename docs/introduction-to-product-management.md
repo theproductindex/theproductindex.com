@@ -17,21 +17,29 @@ Moreover, the role of a Product Manager is still a little vague. The nature of t
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
+
 ### On this section
 - [What is a Product Manager?](#what-is-a-product-manager)
 - [What Product Managers do?](#what-product-managers-do)
 	- [Product Manager vs. Project Manager](#product-manager-vs-project-manager)
+	- [Product Manager vs. Program Manager](#product-manager-vs-program-manager)
 	- [Product Manager vs. Product Marketing Manager](#product-manager-vs-product-marketing-manager)
 	- [Product Manager vs. Product Owner](#product-manager-vs-product-owner)
 - [Types of Product Managers](#types-of-product-managers)
   - [Internal Product Manager](#internal-product-manager)
   - [Business to Business Product Manager](#business-to-business-product-manager)
   - [Busines to Consumer Product Manager](#business-to-consumer-product-manager)
+  - [Technical Product Manager](#technical-product-manager)
+- [How to Find Great Product Managers](#how-to-find-great-product-managers)
 <!-- - [The Product Manager's DNA](#the-product-managers-DNA) -->
 
 </div>
 
 ## What is a Product Manager?
+
+> Nobody asked you to show up — Ken Norton
+
+For most companies, Product Management is expendable at first. Product Managers are not the ones building, designing, or selling the product. These specialists could fill the gap if necessary. But in the long run, not having a Product Manager can make the difference between winning and losing.
 
 Product managers are responsible for the ultimate success of the product. They are like the conductor in an orchestra. The conductor helps the orchestra to deliver a great performance to the audience.
 
@@ -68,9 +76,15 @@ This is what they do, over and over again.
 
 ### Product Manager vs. Project Manager
 
-This is one of the most common mistakes companies do. Project Managers are responsible for accomplishing the project. A project usually has a timeline, a scope and a budget as constraints.
+This is one of the most common mistakes companies do. Project Managers are responsible for accomplishing the project. A project usually has a timeline, a scope, and a budget as constraints. They own the schedule and are masters of Gantt charts, not representing the customer.
 
 *Product Managers* are responsible for the success of the product. To measure that success, it is important to define Key Performance Indicators (KPIs). Although they would need the skill of project management to manage product releases and keep the product on track.
+
+### Product Manager vs. Program Manager
+
+Program Managers focuses on various products or project within an organization. A program is a group of related projects or initiatives. They act as a Project Manager with broader and more strategic view.
+
+Program Managers can help Product Managers to set realistic expectations around product development. They understand the organizational context and how changes in resources may affect Product Managers' plans.
 
 ### Product Manager vs. Product Marketing Manager
 
@@ -88,7 +102,9 @@ Product Owner is the role that a *Product Manager* usually plays on a Scrum team
 
 ## Types of Product Managers
 
-A common way to classify Product Managers is their relationship with *stakeholders*. Stakeholders are the people that have input on the product.
+A common way to classify Product Managers is their relationship with *stakeholders*. Stakeholders are the people that have input on the product. Another way is by using their background since Product Managers come from very different backgrounds.
+
+This list is not exhaustive, but it should increase your chances of success when doing the transition.
 
 ### Internal Product Manager
 
@@ -108,6 +124,29 @@ This is the most challenging role because the number of users is often high, so 
 
 This a great opportunity to learn, especially doing user testing in a fast-paced environment.
 
+### Technical Product Manager
+
+A common role when the transition to comes from Engineering is the Technical Product Manager. It can also exist an overlap with any of the types above and thus, have any number of users depending on the industry. The key difference is that this role focuses on the complex and highly technical aspects of a product.
+
+This is a great opportunity for former engineers that don't have much interest in design or marketing and still want to work very close to technology.
+
+## How to Find Great Product Managers
+
+There's a famous essay from Ken Norton about how to find great Product Managers. He explains that the process depends on the environment you are hiring for.
+
+At a startup, you need strong generalists. People that can deal with changing priorities, multiple tasks and high levels of uncertainty. People that are curious and can adapt quickly.
+
+At a big company, you need specialization. People with a deep understanding in a specific aspect. Companies hire them for a very specific role and chances are it won't change much over time.
+
+Here is a list of the things you should look in a Product Manager, regardless of the environment you are hiring for:
+
+- **Smarter than you**: Candidates with raw intellectual horsepower mean high problem-solving skills. Favor this over experience.
+- **Strong technical background**: Candidates with engineer background can relate with engineers and grasp technical details. Make sure the person already did the transition because it can be hard.
+- **Strong product instincts and creativity**: Candidates that know what makes a great product and can think out of the box.
+- **True leadership**: The ability to lead people with no authority. Look for interpersonal skills and emotional intelligence.
+- **Multiple points-of-view vision**: Candidates should be able to think about a problem from different angles. Doubt from those that give absolute answers.
+- **Shipped something before**:  There's is no substitute for launching a product from start to finish, concept to launch.
+
 ---
 
 This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
@@ -116,6 +155,7 @@ Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehu
 
 ## References
 
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to Hire a Product Manager" by Ken Norton](https://www.kennorton.com/essays/productmanager.html)|12 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What, exactly, is a Product Manager" by Martin Eriksson](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a product manager and what do they do?" by Geoffrey Keating](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Product Manager vs Product Owner" by Melissa Perri](https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d)|7 min read|
