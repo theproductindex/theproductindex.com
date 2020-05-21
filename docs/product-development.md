@@ -9,25 +9,249 @@ color: D6813D
 image: https://images.unsplash.com/photo-1503551723145-6c040742065b?fit=crop&w=300&q=80
 ---
 
-When it comes to building a product, solid execution is everything. As a Product Manager, your goal is to build what you promised during the MVP tests phase. The development team is going to build a full product using these learnings as input.
+When it comes to building a product, solid execution is everything. As a Product Manager, your goal is to deliver the most important initiative next. The development team is going to build a full product using the learnings from the MVP test phase and the result of the prioritization process.
 
-During execution, many risks could prevent your team from launching the product. Technical issues, lack of resources and tight deadlines may affect the quality of the final product.
+During execution, many risks could prevent your team from launching the product. Technical issues, lack of resources, and tight deadlines may  affect the quality of the final product.
 
-Your job as Product Manager is to make sure the product your customers are expecting comes out of the door.
+Your job as Product Manager is to launch the product your customers are expecting using the team's resources in the best possible way.
 
-Depending on the product, a good practice is to use *Agile* Development. An incremental and iterative approach that allows your team to learn and adapt.
+Depending on the product, a good practice is to use *Agile* Development. An incremental and iterative approach that allows your team to learn and adapt. For other products, a flavor of *Waterfall* may be a better approach.
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
+
+- [How Product Managers Prioritize](#how-product-managers-prioritize)
+	- [Value vs. Effort](#value-vs-effort)
+	- [MoSCoW Method](#moscow-method)
+	- [Opportunity Scoring](#opportunity-scoring)
+	- [Buy a Feature](#buy-a-feature)
+	- [Story Mapping](#story-mapping)
+	- [Kano Model](#kano-model)
+	- [RICE Scoring](#rice-scoring)
 - [What is Agile Development?](#what-is-agile-development)
 	- [The Challenges of Agile](#the-challenges-of-agile)
 - [Scrum vs Kanban](#scrum-vs-kanban)
-	- [Scrum: A structured approach](#scrum-a-structured-agile-approach)
-	- [Kanban: A flexible approach](#kanban-a-flexible-approach)
+	- [Scrum: A Structured Approach](#scrum-a-structured-agile-approach)
+	- [Kanban: A Flexible Approach](#kanban-a-flexible-approach)
 - [Dual-Track Agile](#dual-track-agile)
 - [What is Waterfall Development?](#what-is-waterfall-development)
 </div>
+
+
+## How Product Managers Prioritize
+
+A major challenge for Product Managers is to decide what to do next. The reason is simple: the company has limited resources to invest.
+
+Stakeholders and customers represent a valuable source of feedback. But they have a limited perspective on what's possible and what’s the best way to solve a problem. Great Product Managers manage their expectations accordingly. The best way to do it is to help them understand how do you make these important decisions. If you fail to do so, you'll end up frustrating everyone involved in the product.
+
+Most of the time you would be saying *"no"* to product requests. That's expected. But a better approach would be to say *"this is what we're doing instead, and here's why"*. The best Product Managers back up their decisions with unbiased data. Remember, every time you say yes to an opportunity, you’re also saying no to everything else.
+
+There are many prioritization techniques and frameworks out there. Some of them are internally focused, others more externally focused. At the same time, they can be either quantitative or qualitative. But their effectiveness depends on the nature of the company (culture) and product.
+
+There is no silver bullet. You should use these techniques as a guide rather than a definitive answer. When in doubt, turn to your [Product Vision and Strategy](vision-and-strategy.html).
+
+### Value vs. Effort
+
+This framework allows the product team to visualize in a simple matrix where product initiatives or features stand. You can also found as *Value vs. Cost* or *Value vs. Complexity*.
+
+The key is to clearly define what “value” and “effort” actually mean for stakeholders. This question should trigger a healthy discussion around what’s important. As a Product Manager, this should help you get a better understanding of the bigger picture.
+
+The goal of this framework is to maximize value every time. The matrix then breaks into the following quadrants:
+- **High Value - Low Effort**: These product features are "quick-wins" and should go first.
+- **High Value - High Effort**: These product features might take longer but they worth the investment.
+- **Low Value - Low Effort**: Try not to do more than necessary of these product features.
+- **Low Value - High Effort**: Avoid these product features when possible.
+
+![](images/value_vs_effort_matrix.png "Value vs. Effort")
+
+By using this matrix, a Product Manager provides a visual and quantifiable way to back up her decisions. Starting with the most valuable initiatives with low effort first, followed by high value and high effort second. As a note, low value, low effort should be carefully considered individual basis.  Ignore the rest when possible.
+
+**The Pros**
+- No complex formulas or models. Easy to pick-up.
+- The *value* and *effort* definition fits any company and industry.
+- Removes the guesswork and serves as a tool for alignment.
+- Easy way to find “low-hanging fruits” to tackle.
+- Works really well with new products.
+
+**The Cons**
+- Estimations may not very accurate.
+- Stakeholders' disagreements may be time-consuming.
+- It may not be as valuable for more mature products.
+- It may lead to a product full of low-effort solutions.
+
+### MoSCoW Method
+
+A framework developed by Dai Clegg in 1994, used to figure out what matters to stakeholders and customers. The acronym comes from Must Have *(Mo)*, Should Have *(S)*, Could Have *(Co)*, Won’t Have *(W)*.
+
+The goal is to assign product initiatives into 4 discrete categories based on *timeframe* and *importance*:
+
+- **Must-Haves**: These features are critical and time-sensitive.  Missing even one feature would make a launch or release to fail.
+- **Should-Have**: This functionality is as important as Must-Haves but not as time-sensitive.
+- **Could-Have**: These features improve the [User Experience](user-experience.html) but they are not critical. They can be left out for now.
+- **Won’t-Have**: These product ideas are not aligned with the [Product Strategy](vision-and-strategy.html) but they might have a chance in the future.
+
+**The Pros**
+- Simple and straightforward solution for non-technical stakeholders.
+- Best suited for internal, time-boxed projects.
+
+**The Cons**
+- Limited categories may lead to an increased *Must-Have* list.
+- Difficult to implement at scale.
+
+### Opportunity Scoring
+
+This technique comes from Anthoney Ulwicks’ *Outcome-Driven Innovation (ODI)* framework. Also known as *Opportunity Analysis*, the concept behind is that customers hire a product or service to get a job done. What really matters is the customer's desired outcome.
+
+The goal is to prioritize product initiatives based on the *importance* and *satisfaction* of the desired outcome.
+
+Ulwicks states that asking customers about outcomes provides a more accurate form of feedback. Customers usually think in terms of solutions so they don't know what's possible.
+
+As a Product Manager, you will have to create a list of desired outcomes. This list could have dozens if not hundreds of outcomes. Then you should ask customers about them using the following questions:
+- ***How important is this outcome?***
+- ***How satisfied are you with the existing solution?***
+
+Then you should calculate the *opportunity score* using the following formula:
+
+> **Opportunity Score = Outcome Importance + (Outcome Importance – Outcome Satisfaction, 0)**
+
+As a rule of thumb, a score above 15 makes a great opportunity, and a score below 10, makes it unattractive.
+
+![](images/opportunity_landscape.png "Opportunity Landscape")
+
+The opportunity landscape helps us visualize where the most promising opportunities are. An outcome that is both important and poorly satisfied is an unmet need.
+
+**The Pros**
+- A simple framework for product innovation.
+- Shifts the focus to outcomes, where customers are experts.
+- Works best to increase satisfaction scores (like NPS and CSAT).
+- Easy to visualize *quick wins*.
+
+**The Cons**
+- The survey might be time-consuming for a representative sample.
+- Customers might overestimate or underestimate an outcome's importance.
+
+### Buy a Feature
+
+This is an innovative game that can be played with stakeholders or real customers, depending on the company and product. The idea behind this exercise is to make the process of prioritization *intuitive, fun, and collaborative*.
+
+The goal is to discover what customers care about and how stakeholders value different initiatives. The **rules** are:
+
+- *A "price" is assigned to each product initiative. This price should represent the real-time, effort, or development cost of the initiative*.
+- *A fixed budget is assigned to each participant*.
+- *Participants can choose to spend all their money on one feature or spread it among many*.
+- *Participants should not exceed 8 people*.
+- *Participants may or may not spend all their budget during the session*.
+- *Product Initiatives may be priced above an individual budget. This would force participants to join forces to buy an expensive initiative*.
+- *Multiple sessions can be run in a "tournament" fashion. This helps filter less popular initiatives*.
+
+The game starts by creating a list of the product initiatives and assigns a price to each one of them. Remember, this price isn’t random.
+Then, gather a group of no more than 8 people. They could be real customers, stakeholders, or a mix.
+
+Next, assign each participant a fixed budget and ask them to spend their money on the initiatives of the list they like the most. They might persuade each other to pool and buy an expensive product initiative. After everyone is ready, ask them individually to explain why.
+
+This is a great activity to shake the typical work routine. But at the same time provides valuable insights.
+
+**The Pros**
+- Fun and intuitive to put into practice.
+- It helps to reveal hidden outcomes or motives behind decisions.
+- Very useful for internal or consulting projects.
+
+**The Cons**
+- The result is as good as the product initiatives list.
+- Customers may not know what they want.
+
+
+### Story Mapping
+
+A model created by Jeff Patton in 2005 to solve the problem of flat backlog prioritization. The idea is to organize *User Stories* in the same way users use the product. This helps the product team to address complete workflows from beginning to end.
+
+The goal is to focus on [User Experience](user-experience.html) instead of functionality.
+
+Story Mapping organizes the backlog into two axes. The horizontal axis represents the steps your customer takes when using the product or *User Journey*. The vertical axis responds to the level of importance from top to bottom.
+
+![](images/story_mapping.png "Story Mapping")
+
+The visual representation of the backlog makes obvious what's included in each release or slice of the product. The horizontal lines between *User Stories* help everyone involved to stay on the same page.
+
+**The Pros**
+- Easy and intuitive to understand for non-technical stakeholders.
+- Easy to identify end-to-end versions of the product.
+- Very helpful for early stage products and [MVPs](minimum-viable-product.html).
+- Focused on [User Experience](user-experience.html).
+
+**The Cons**
+- Requires a deep understanding of the problem space.
+- Write and groom high-quality *User Stories* it's time-consuming.
+- Business value or complexity are not taken into account.
+
+### Kano Model
+
+This model was created by Noriaki Kano in 1984. The premise is that the more you invest in a specific functionality, the higher the level of customer satisfaction.
+
+The goal is to *maximize satisfaction* by improving the features that have the most impact.
+
+The model uses two dimensions to represent *satisfaction* vs. *functionality*. Satisfaction goes from total dissatisfaction or *frustration* to total satisfaction or *excitement*. Functionality refers to how much the team has to invest in development to deliver that feature.
+
+![](images/kano_model.png "Kano Model")
+
+- **Must-Haves**: These product features are expected by customers. Also known as *threshold* functionality because missing them can prevent customers to even try your product. Increased investment here doesn't contribute to satisfaction.
+- **Performance Benefits**: This functionality responds to a linear function. The more investment in these features, the more satisfaction provides.
+- **Delighters**: These product features are unexpected by customers. Missing them doesn’t create dissatisfaction. But they create memorable experiences and *delight* customers.
+- **Indifferent**: Customers don’t have either a positive or negative opinion of these product features.
+
+As a Product Manager, you should tackle must-haves first, performance benefits next, and delighters at the end. You can ignore the rest. But before getting here, you should capture satisfaction data from customers and prospects. These are the pair of closed questions the survey should include:
+- ***How do you feel if you have this feature?***
+- ***How do you feel if you don’t have this feature?***
+
+The always-evolving customer needs reveal an important aspect of the Kano model:
+
+> Needs migrate over time. Yesterday’s delighters become today’s performance features and tomorrow’s must-haves — Dan Olsen
+
+**The Pros**
+- Works best for early-stage products or [MVPs](minimum-viable-product.html).
+- Avoids overestimating *Delighters*.
+- Avoids underestimating *Must-Haves*.
+- Focuses on [User Experience](user-experience.html).
+
+**The Cons**
+- Surveys can be time-consuming and hard to do them right.
+- Customers may not understand what features are you talking about.
+
+### RICE Scoring
+
+This framework was created by the product team at *Intercom*. The idea is to assign a score to each product initiative based on quantitative data.
+
+The goal is to *remove opinions and guesswork* during the prioritization process.
+
+The 4 aspects involved during the *score* calculation:
+- **Reach (R)**: The percentage of the user base to be affected by this product feature in a given period of time.
+- **Impact (I)**: The impact of the product feature at an individual level using the following scale:
+	- Minimal: 0.25x
+	- Low: 0.5x
+	- Medium: 1x
+	- High: 2x
+	- Massive: 3x
+- **Confidence (C)**: The level of confidence the product team has based on the data of the other 3 factors:
+	- Low: 50%
+	- Medium: 80%
+	- High: 100%
+- **Effort (E)**: The investment required to develop this product feature.  How much work a team member (product, design, or engineering) can get done in a month.
+
+The *RICE Score* for each item is then calculated using the following formula:
+
+> **RICE Score = (Reach x Impact x Confidence) / Effort**
+
+As a Product Manager, you should rank all items from top to bottom.
+
+**The Pros**
+- The confidence factor acknowledges that it's hard to predict success.
+- Minimizes common biases during prioritization.
+- Focuses on real business impact.
+
+**The Cons**
+- Requires a coordinated effort to make product (or company) metrics *S.M.A.R.T*.
+- Doesn't consider dependencies between product features.
 
 ## What is Agile Development?
 
@@ -77,7 +301,7 @@ Companies can benefit from both. A good approach is to choose the best fit and s
 
 The final decision doesn't need to be binary. Many teams are using hybrid models with a mix of both. Use what is best for your team.
 
-### Scrum: A structured approach
+### Scrum: A Structured Approach
 
 Scrum teams ship working software by the end of each time-boxed iteration. These are called sprints. They act as learning loops that allow integrating customer feedback on each time.
 
@@ -94,7 +318,7 @@ The most important metric is the number of story points completed in a sprint. O
 
 Scrum's roles, artifacts, and rules are best defined in [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html).
 
-### Kanban: A flexible approach
+### Kanban: A Flexible Approach
 
 Kanban is a board that helps visualize your work. The board has different stages based on your workflow. This helps the team to be on the same page and identify issues as they arise. Kanban is great for teams that have changing priorities and lots of requests.
 
@@ -147,11 +371,24 @@ This is a first draft and a just a glance of what Product Development is. Take t
 
 Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehuD1EBGG46).
 
-## Resources
+## References
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is Dual Track Agile?" by Jacob De Lichtenberg](https://www.mindtheproduct.com/2017/04/dual-track-agile-messy-leads-innovation/)|12 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Kanban vs. Scrum" by Max Rehkopf](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)|8 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?" by Lucidchart](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)|8 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Why isn't Agile working?" by John Cutler](https://medium.com/hackernoon/why-isnt-agile-working-d7127af1c552)|4 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["20 Product Prioritization Techniques: A Map and Guided Tour" by Folding Burritos](https://foldingburritos.com/product-prioritization-techniques/)|39 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Product Prioritization Frameworks: The 9 Most Popular" by Roadmunk](https://roadmunk.com/guides/product-prioritization-techniques-product-managers/)|15 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["7 Strategies to Choose the Best Features for Your Product" by Jim Semick](https://www.productplan.com/strategies-prioritize-product-features/)|7 min read|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 12, 26](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/)|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Product Playbook" by Dan Olsen, Chapter 12](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)|
+
+## Additional Resources
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to Choose the Right Feature Prioritization Framework" by Sierra Newell](https://www.productplan.com/how-to-choose-the-right-feature-prioritization-framework/)|6 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to Prioritize Product Features and Improvements" by Richard Banfield](https://medium.com/@freshtilledsoil/how-to-prioritize-product-features-and-improvements-8aea72c8bf27)|16 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["The New User Story Backlog is a Map" by Jeff Patton](https://www.jpattonassociates.com/the-new-backlog/)|16 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Product Discovery or Product Delivery: How do you Decide?" by Philipp Krehl](https://www.mindtheproduct.com/product-discovery-or-product-delivery-how-do-you-decide/)|13 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Agile Is The New Waterfall - The Startup" by Ayasin](https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d)|8 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["The Big Picture of Scrum - ProductCoalition.com" by Joe Van Os](https://productcoalition.com/the-big-picture-of-scrum-76e265460eea)|7 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["When Waterfall Principles Sneak Back Into Agile Workflows" by Steve Blank](https://hbr.org/2019/09/when-waterfall-principles-sneak-back-into-agile-workflows)|4 min read|
