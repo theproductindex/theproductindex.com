@@ -9,13 +9,13 @@ color: D6813D
 image: https://images.unsplash.com/photo-1503551723145-6c040742065b?fit=crop&w=300&q=80
 ---
 
-When it comes to building a product, solid execution is everything. As a Product Manager, your goal is to deliver the most important initiative next. The development team is going to build a full product using the learnings from the MVP test phase and the result of the prioritization process.
+When it comes to building a product, solid execution is everything. As a Product Manager, your goal is to deliver the most valuable product feature next. The development team is going to build a full product based on the learnings of the [MVP](minimum-viable-product.html) phase and the result of the prioritization process.
 
-During execution, many risks could prevent your team from launching the product. Technical issues, lack of resources, and tight deadlines may  affect the quality of the final product.
+During execution, many risks could prevent your team from launching the product. Technical issues, lack of resources, and tight deadlines may affect the quality of the final product.
 
 Your job as Product Manager is to launch the product your customers are expecting using the team's resources in the best possible way.
 
-Depending on the product, a good practice is to use *Agile* Development. An incremental and iterative approach that allows your team to learn and adapt. For other products, a flavor of *Waterfall* may be a better approach.
+A good practice is to use *Agile* Development, an incremental and iterative approach that allows to learn and adapt. For other products, a flavor of *Waterfall* Development may be a better approach.
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
@@ -337,7 +337,7 @@ The goal of Kanban is to continuously improve the workflow. The team meets on a 
 
 The concept of this Dual-track Agile is that *what* to build is as important as *how* to build it. It requires a certain level of experience working with Agile since it can get messy very fast.
 
-There are two tracks running in parallel. The *discovery track* and the *delivery track*. The first, tests if a product idea is good and makes sense to build. Any method to run experiments will do it. The experimental approach used in MVP tests is the most common and effective. Then, the validated ideas move to the delivery track, which is the usual backlog in Agile methodologies. Both Scrum and Kanban can be used here.
+There are two tracks running in parallel. The *Discovery Track* and the *Delivery Track*. The first, tests if a product idea is good and makes sense to build. Any method to run experiments will do it. The experimental approach used in [MVP](minimum-viable-product.html) tests is the most common and effective. Then, the validated ideas move to the delivery track, which is the usual backlog in Agile methodologies. Both Scrum and Kanban can be used here.
 
 ![](images/dual-tracking.png "Dual Tracking Process")
 <span>[From Jacob Litchenberg article. Resources section](#resources)</span>
