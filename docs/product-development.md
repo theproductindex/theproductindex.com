@@ -118,6 +118,7 @@ Then you should calculate the *opportunity score* using the following formula:
 As a rule of thumb, a score above 15 makes a great opportunity, and a score below 10, makes it unattractive.
 
 ![](images/opportunity_landscape.png "Opportunity Landscape")
+<span>[From Folding Burritos's article. Check *References*.](#references)</span>
 
 The opportunity landscape helps us visualize where the most promising opportunities are. An outcome that is both important and poorly satisfied is an unmet need.
 
@@ -295,7 +296,7 @@ Kanban works best with smaller teams since it's the most flexible in terms of im
 Scrum allows some predictability with time-boxed increments and deliverables. This structure helps to make high-level estimations on how long a project would take.
 
 ![](images/scrum-vs-kanban.png "Scrum vs. Kanban")
-<span>[From A Max Rehkopf's article. Resources section.](#resources)</span>
+<span>[From A Max Rehkopf's article. Check *References*.](#references)</span>
 
 Companies can benefit from both. A good approach is to choose the best fit and stick with it for a while. Then, ask your team what went well and what could improve. If necessary, switch to another methodology.
 
@@ -308,7 +309,7 @@ Scrum teams ship working software by the end of each time-boxed iteration. These
 Sprints length may vary but the most common is two weeks. This short period forces the team to tackle small chunks of work. By doing it, they reduce the estimation errors, deliver faster and learn more quickly.
 
 ![](images/scrum.png "Scrum")
-<span>[From Dan Olsen's book. Resources section.](#resources)</span>
+<span>[From Dan Olsen's book. Check *References*.](#references)</span>
 
 Scrum uses a set of ceremonies on each sprint plan, review and learn. These are *sprint planning*, *sprint review* and *retrospective* meetings. There is also a short *daily standup* meeting to discuss any potential blocker and helps the team to be in sync.
 
@@ -323,7 +324,7 @@ Scrum's roles, artifacts, and rules are best defined in [The Scrum Guide](https:
 Kanban is a board that helps visualize your work. The board has different stages based on your workflow. This helps the team to be on the same page and identify issues as they arise. Kanban is great for teams that have changing priorities and lots of requests.
 
 ![](images/kanban-board.png "Kanban")
-<span>[From Dan Olsen's book. Resources section.](#resources)</span>
+<span>[From Dan Olsen's book. Check *References*.](#references)</span>
 
 Every work item on the board is a *Kanban card*. A team member chooses a card to work on, then moves it from left to right following the workflow, until is done. Kanban does not have a regular schedule to release updates.
 
@@ -340,7 +341,7 @@ The concept of this Dual-track Agile is that *what* to build is as important as 
 There are two tracks running in parallel. The *Discovery Track* and the *Delivery Track*. The first, tests if a product idea is good and makes sense to build. Any method to run experiments will do it. The experimental approach used in [MVP](minimum-viable-product.html) tests is the most common and effective. Then, the validated ideas move to the delivery track, which is the usual backlog in Agile methodologies. Both Scrum and Kanban can be used here.
 
 ![](images/dual-tracking.png "Dual Tracking Process")
-<span>[From Jacob Litchenberg article. Resources section](#resources)</span>
+<span>[From Jacob Litchenberg article. Check *References*](#references)</span>
 
 In the discovery track, the product team should collect answers to the following questions:
 - How much value does create?
@@ -357,7 +358,7 @@ The focus on outcomes becomes explicit using Dual-Track Agile.
 Before the massive adoption of Agile, software was created using *Waterfall* development. This methodology works with a series of sequential stages.
 
 ![](images/waterfall.png "Waterfall Development")
-<span>[From Lucidchart's article. Resources section.](#resources)</span>
+<span>[From Lucidchart's article. Check *References*.](#references)</span>
 
 The idea is to complete each stage before moving to the next one. This means no design until requirements are defined and no coding until the product is designed. Also, you can't go back to a previous stage without starting the process again. This lack of flexibility is the main reason why most companies move to Agile.
 
