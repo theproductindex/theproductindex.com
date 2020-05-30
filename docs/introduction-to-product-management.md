@@ -51,7 +51,7 @@ Although there is a *manager* in the job title, Product Managers don't have peop
 Think about Product Management as the intersection between *Business*, *Technology*, and *User Experience*. A Product Manager pulls all the pieces together by getting feedback from everyone else.
 
 ![](images/what_is_a_product_manager.png "The intersection between business, technology, and user experience")
-<span>[From Martin Eriksson’s article. Resources section.](#resources)</span>
+<span>[From Martin Eriksson’s article. Resources section.](#additional-resources)</span>
 
 * **Business**: Product Managers achieve business goals while maximizing return on investment (ROI). This is why product optimization is so important.
 
@@ -205,3 +205,4 @@ Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehu
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What’s in the DNA of Product People?" by Jase Clamp](https://www.mindtheproduct.com/whats-in-the-dna-of-product-people)|8 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["A Simple Trick to Make You A More Efficient Product Manager" by Lilly M. Dobreva](https://medium.com/mytake/a-simple-trick-to-make-you-a-more-efficient-product-manager-8af313ca0777?)|2 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Product Distribution Models" by Clement Kao](https://www.productmanagerhq.com/2019/09/product-distribution-models/)|8 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What Makes For A Good Product Manager?" by Andy Johns](https://www.andyjohns.co/posts/what-makes-for-a-good-product-manager)|8 min read|
