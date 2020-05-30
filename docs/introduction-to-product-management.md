@@ -30,6 +30,7 @@ Moreover, the role of a Product Manager is still a little vague. The nature of t
   - [Business to Business Product Manager](#business-to-business-product-manager)
   - [Busines to Consumer Product Manager](#business-to-consumer-product-manager)
   - [Technical Product Manager](#technical-product-manager)
+- [Skills of a Product Manager](#skills-of-a-product-manager)
 - [How to Find Great Product Managers](#how-to-find-great-product-managers)
 <!-- - [The Product Manager's DNA](#the-product-managers-DNA) -->
 
@@ -129,6 +130,40 @@ This a great opportunity to learn, especially doing user testing in a fast-paced
 A common role when the transition to comes from Engineering is the Technical Product Manager. It can also exist an overlap with any of the types above and thus, have any number of users depending on the industry. The key difference is that this role focuses on the complex and highly technical aspects of a product.
 
 This is a great opportunity for former engineers that don't have much interest in design or marketing and still want to work very close to technology.
+
+## Skills of a Product Manager
+
+For new entrants in this position, it's hard to devise which skills we need to acquire. In essence, Product Management is a discipline with a broader set of definitions and expectations that makes this career interesting but unclear at the moment of jumping on it.
+ 
+> "It is precisely this combination of deep customer understanding with the ability to apply technology to solve customer problems that enables a strong product person." - Marty Cagan
+ 
+The next one is an attempt to list the core competencies that are the baseline for any PM and that you will naturally improve over the years.
+ 
+- **Execution**
+
+  As a Product Manager, you ship new features with a regular cadence, run squad process, and meetings. You are responsible for writing precise product requirements and prioritize what to build. You are in charge of aligning your team around business objectives.
+ 
+- **Technology, UX and Business**
+
+  You are able to understand the technology stack so that you can communicate with the rest of the team. You know the design patterns of your product and can brainstorm with the designers' team.
+  As a Product Manager, you negotiate priorities with business stakeholders, set goals, and measure impact. You feel comfortable performing market assessments.
+ 
+- **Leadership, communication, and visibility**
+
+  You can lead by using soft influence and effective communication. You are responsible for aligning the team toward the same goal. You can present problems and speak to a broad stakeholder audience in a language they can understand.
+ 
+- **Problem Discovery**
+
+  To do an exceptional job, you need to understand customer problems, so their needs are well-represented internally. You talk with your users frequently. You are able to conduct customer research and user testing. As a product manager, you feel comfortable analyzing data to support your product decisions.
+ 
+- **Vision and strategy**
+
+  You own the vision and strategy of your product and team. Plan the roadmap and future of the product according to the business necessities. 
+  You figure out when to build what in the right way to maximize business impact.
+ 
+- **Emotional Intelligence**
+
+  Product Managers are empathetic with the team, stakeholders, and users. You inspire people and help the team reach its full potential. You feel comfortable taking and communicating hard decisions.
 
 ## How to Find Great Product Managers
 
