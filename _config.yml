@@ -30,6 +30,7 @@ plugins:
   - jekyll-timeago
   - jekyll-github-metadata
   - jekyll-last-modified-at
+  - jekyll-sitemap
 
 google_analytics: UA-144584240-1
 

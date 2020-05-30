@@ -41,6 +41,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-timeago (0.13.1)
       mini_i18n (>= 0.8.0)
     jekyll-watch (2.2.1)
@@ -87,9 +89,10 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-github-metadata
   jekyll-last-modified-at
+  jekyll-sitemap
   jekyll-timeago
   minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
-   2.0.2
+   2.1.4
