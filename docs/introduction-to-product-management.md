@@ -31,7 +31,7 @@ Moreover, the role of a Product Manager is still a little vague. The nature of t
   - [Busines to Consumer Product Manager](#business-to-consumer-product-manager)
   - [Technical Product Manager](#technical-product-manager)
 - [Skills of a Product Manager](#skills-of-a-product-manager)
-- [How to Find Great Product Managers](#how-to-find-great-product-managers)
+- [What Companies Look For In Product Managers Candidates](#what-companies-look-for-in-product-managers-candidates)
 <!-- - [The Product Manager's DNA](#the-product-managers-DNA) -->
 
 </div>
@@ -165,22 +165,29 @@ The next one is an attempt to list the core competencies that are the baseline f
 
   Product Managers are empathetic with the team, stakeholders, and users. You inspire people and help the team reach its full potential. You feel comfortable taking and communicating hard decisions.
 
-## How to Find Great Product Managers
+## What Companies Look For In Product Managers Candidates
 
-There's a famous essay from Ken Norton about how to find great Product Managers. He explains that the process depends on the environment you are hiring for.
+There’s a good chance hiring managers have read the famous essay from [Ken Norton](#references) on how to find great Product Managers. He explains how the process should be dependent on the environment you are being hired for.
 
-At a startup, you need strong generalists. People that can deal with changing priorities, multiple tasks and high levels of uncertainty. People that are curious and can adapt quickly.
+Startups and small companies, for instance, look for strong generalists. Generalists can deal with changing priorities and high levels of uncertainty. They are more interested in your ability to adapt and learn than your overall experience.
 
-At a big company, you need specialization. People with a deep understanding in a specific aspect. Companies hire them for a very specific role and chances are it won't change much over time.
+Bigger companies, instead, look for specialization. People with a deep understanding of a specific subject. They hire to fill a very specific role and chances are it won’t change much over time.
 
-Here is a list of the things you should look in a Product Manager, regardless of the environment you are hiring for:
+Regardless of the environment, here is a list of things hiring managers might be looking for during interviews:
 
-- **Smarter than you**: Candidates with raw intellectual horsepower mean high problem-solving skills. Favor this over experience.
-- **Strong technical background**: Candidates with engineer background can relate with engineers and grasp technical details. Make sure the person already did the transition because it can be hard.
-- **Strong product instincts and creativity**: Candidates that know what makes a great product and can think out of the box.
-- **True leadership**: The ability to lead people with no authority. Look for interpersonal skills and emotional intelligence.
-- **Multiple points-of-view vision**: Candidates should be able to think about a problem from different angles. Doubt from those that give absolute answers.
-- **Shipped something before**:  There's is no substitute for launching a product from start to finish, concept to launch.
+- **Can you solve hard problems?** Candidates with raw intellectual horsepower mean high problem-solving skills. As a general rule, they will favor this over experience.
+
+- **Do you have a technical background?** Candidates with an engineer background can relate with engineers and grasp technical details. But the transition can be hard. They will want to know if you already did it.
+
+- **Do you have a product *instinct*?** Candidates that know what makes a great product and can think out of the box. They look for creativity.
+
+- **Can you lead?** The ability to lead and connect with people is critical to succeeding in the role. They will look for interpersonal skills and emotional intelligence.
+
+- **Do you have a *gray-scaled* vision?** Candidates should be able to think about a problem from different angles. They will doubt candidates that give absolute answers. Stay away from binary thinking.
+
+- **Have you shipped something before?** There is no substitute for launching a product from start to finish, from concept to launch. Make sure you have something interesting to tell here.
+
+- **Are you a good communicator?** Candidates should be able to communicate an idea to different audiences in a clear and concise way. Don’t forget that good communication also means being a good listener.
 
 ---
 
