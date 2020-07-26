@@ -81,9 +81,9 @@ Charlie Munger, the chairman of Berkshire Hathaway, reflected on a speech:
 >
 > You’ve got to have models in your head. And you’ve got to array your experience — both vicarious and direct — on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head. — Charlie Munger
 
-For instance, almost anything in the world can be described as a system. A system is a set of components working together as a whole. You can optimize a system by focusing on the core components and how they work together.
+For instance, almost anything in the world can be described as a *system*. A system is a set of components working together as a whole. You can optimize a system by focusing on the core components and how they work together.
 
-Product Managers can leverage mental models to make better decisions without needing to know every detail. Arguing from First Principles is a good example of this.
+Product Managers can leverage mental models to make better decisions without needing to know every detail. Arguing from *First Principles* is a good example of this.
 
 Mental models are frameworks for thinking and you should think of them as tools in a toolbox.
 
@@ -92,26 +92,26 @@ Here is a list of relevant mental models to the key aspects of Product Managemen
 
 ### Urgent vs. Important: The Eisenhower Decision Matrix
 
-As we know, prioritizing is a critical skill for Product Mangers. And this mental model is a good starting point, although there are more sophisticated ways to do it. The goal is to clearly define what *urgent* and *important* mean and use the matrix to determine which quadrant a task belongs.
+As we know, prioritizing is a critical skill for Product Managers. And this mental model is a good starting point, although there are more sophisticated ways to do it. The goal is to clearly define what *urgent* and *important* mean. Then use the matrix to determine to which quadrant a task belongs.
 
 > What is important is seldom urgent and what is urgent is seldom important - Dwight Eisenhower
 
 The four classes, in order, are:
 
-1. **Urgent and important**: Tasks you should do immediately.
-2. **Important, but not urgent**: Tasks you should schedule to do later.
-3. **Urgent, but not important**: Tasks you should delegate to someone else.
-4. **Neither urgent nor important**: Tasks that you should cut.
+1. **Urgent and Important**: Tasks you should do immediately.
+2. **Important, but not Urgent**: Tasks you should schedule to do later.
+3. **Urgent, but not Important**: Tasks you should delegate to someone else.
+4. **Neither Urgent nor Important**: Tasks that you should cut.
 
 **When to use it**:
 
-A common mistake of new Product Managers is to get caught on urgent but unimportant tasks. When you are dealing with multiple stakeholders requests, it can help you focus where matters. Learn to say no, delegate as needed and cut unnecessary tasks.
+A common mistake of new Product Managers is to get caught on urgent but unimportant tasks. When you are dealing with multiple stakeholders requests, this model can help you focus where matters. Learn to say no, delegate as needed and cut unnecessary tasks.
 
 ### Return of Investment
 
-Return of investment means the resulting ratio between what you gain (impact) and what you invest (resources). The higher the ROI of an investment, the higher the impact compared to its investment.
+Return of investment (ROI) is the resulting ratio between what you gain (impact) and what you invest (resources). The higher the ROI of an investment, the higher the impact in comparison to its investment.
 
-The resources available to a product team could be time, money, and people's skills. This is what you invest to produce an impact on your customers. This is the basis for all kinds of prioritization frameworks.
+The resources available to a product team could be time, money, and people's skills. This is what you invest to produce an impact on your customers. And is the basis for all kinds of prioritization frameworks.
 
 **When to use it**:
 
@@ -120,20 +120,20 @@ As mentioned, one of the first principles of Product Management is to maximize t
 
 ### Local vs. Global Optimum
 
-A local optimization is an optimal solution (maximal or minimal) within a set of neighbor solution candidates. When it comes to optimization, seeking the global optimum leads to higher returns. A global optimization is an optimal solution among all possible solutions.
+A *local* optimization is an optimal solution (maximal or minimal) within a set of neighbor solution candidates. When it comes to optimization, seeking the *global* optimum leads to higher returns. A global optimization is an optimal solution among all possible solutions.
 
-Systems are always part of a larger system. This model states that the higher the level of the system to optimize, the greater the *Return Of Investment* or ROI (a related concept). Trying to optimize a local system eventually leads to *Diminishing Returns* over time.
+Systems are always part of a larger system. This model states that the higher the level of the system to optimize, the greater the *Return of Investment* or *ROI*. Trying to optimize a local system eventually leads to *Diminishing Returns*.
 
 **When to use it**:
 
-As a Product Manager, think if the optimization work on a specific part of system is leading to diminishin returns. A good example is the when companies focus too much on acquiring customers when monetization or retention might leads to a higher ROI.
+As a Product Manager, think if the optimization work on a specific part of the system is leading to diminishing returns. A good example is when companies focus too much on acquiring customers when focusing on monetization or retention might lead to a higher ROI.
 
 
 ### Time Value of Shipping
 
 This model states that a product that is shipped earlier is more valuable to customers than a product shipped at a later time.
 
-The reason is simple, the sooner you get the product out, the sooner your customers get value and the shorter the feedback loop. Which ultimately helps to increase value in an earlier stage.
+The reason is simple, the sooner you get the product out, the sooner your customers get value and the shorter the feedback loop. Which ultimately helps to improve your product earlier and increase value.
 
 **When to use it**:
 
@@ -141,9 +141,9 @@ When deciding what to build next, always consider how fast the product can be sh
 
 ### The Inversion Principle
 
-This mental model visualizes how *failure* looks like to get an idea of what needs to happen to get there. By focusing on how failure looks like, Product Managers can better visualize what to avoid to succeed.
+This mental model visualizes how *failure* looks like. This way, Product Managers can better understand what needs to be avoided.
 
-The process of using the Inversion Principle is very simple:
+The steps to use the Inversion Principle are very simple:
 
 1. **Define the goal**: What are you trying to achieve?
 2. **Invert it**: What would guarantee to fail at achieving the goal?
@@ -151,7 +151,7 @@ The process of using the Inversion Principle is very simple:
 
 **When to use it**:
 
-When starting a new project or pursuing a goal, you should fast forward months ahead and assume a complete failure. What went wrong? Then work backward and write the story down of how it happened. You might find non-obvious reasons and root causes.
+When starting a new project or pursuing a goal, you should fast forward months ahead and assume a complete failure. What went wrong? Then work backward and write the story down of how it happened. You might find non-obvious reasons.
 
 
 ## Emotional Intelligence
