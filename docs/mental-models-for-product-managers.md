@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thinking Frameworks for Product Managers
-excerpt: How to become a better thinker? Learn how these tools and frameworks can help.
+excerpt: How to be more effective? Learn how these tools and frameworks can help.
 
 type: home-section
 order: 13
