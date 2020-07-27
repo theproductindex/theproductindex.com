@@ -9,11 +9,13 @@ color: af5454
 image: https://images.unsplash.com/photo-1530973428-5bf2db2e4d71?fit=crop&w=300&q=80
 ---
 
-As Product Manager, you might think the role is too broad and the skillset too big. But, as you'll see, the principles of Product Management are very simple.
+After you learn about the multiple hats a Product Manager needs to wear, you might think the role and the skillset are too broad. And that's true. But it doesn't mean you can't do it.
 
-Now, there are frameworks and tools that can help you master these skills and become more effective. You don't need to know every detail about a subject to make an informed decision. It's about how you frame the situation at hand.
+When in doubt, always default to the principles of Product Management: *maximize impact to the mission* and *accomplish everything through others*. That's easy to remember.
 
-Product Managers can improve their problem-solving, decision-making, and interpersonal skills by cutting through the noise and focusing on what’s important.
+Product Managers can improve their skill set by cutting through the noise and focusing on what’s important.
+
+The frameworks and tools in this section will help you master your problem-solving and decision-making skills and become more effective. You don't need to know all the details about a subject to make an informed decision. It's all about how you frame the situation at hand.
 
 
 {::options parse_block_html="true" /}
