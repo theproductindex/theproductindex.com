@@ -21,6 +21,12 @@ A good practice is to use *Agile* Development, an incremental and iterative appr
 <div class="table-of-content">
 ### On this section
 
+- [The Product Development Lifecycle](#the-product-development-lifecycle)
+	- [Discovering the Next Opportunity](#discovering-the-next-opportunity)
+	- [Planning the Solution](#planning-the-solution)
+	- [Creating the Solution](#creating-the-solution)
+	- [Sharing the Solution](#sharing-the-solution)
+	- [Evaluating the Solution](#evaluating-the-solution)
 - [How Product Managers Prioritize](#how-product-managers-prioritize)
 	- [Value vs. Effort](#value-vs-effort)
 	- [MoSCoW Method](#moscow-method)
@@ -37,6 +43,59 @@ A good practice is to use *Agile* Development, an incremental and iterative appr
 - [Dual-Track Agile](#dual-track-agile)
 - [What is Waterfall Development?](#what-is-waterfall-development)
 </div>
+
+## The Product Development Lifecycle
+As a Product Manager, you guide a product throughout different stages, from an idea to a product that drives user engagement and revenue for your company.
+
+It seems easy, but it is not. 96% of built features are never used and end as a waste of resources. The reasons are multiples and depend on multiples factors. But today, after years of trial and error, we have a systematic approach to innovating that entire teams can use to work together towards better outcomes.
+
+The next are the five essential phases that you can use as a guide to building thriving products.
+
+### Discovering the next opportunity
+What should you build next? The first phase of the product development life cycle is to find and define the next opportunity to pursue. Usually, it's up to the product manager to create and sort through all the possibilities and pick the right one to focus on next.
+
+You start by gathering user needs from data you already have, talking with internal stakeholders, or talking directly to the users. Tools such as the business model canvas can help you structure the research. First-principles and mental models can help to uncover what is unseen and understand the needs' nature. You want to be sure you have a valid case and a reliable, strategic plan to give your product the best chance of success.
+
+This is one of the most critical stages, where the idea is qualitatively validated by continuous communication with the customers. Methodologies like Design Sprint, Lean Startup, or Agile will align the team with collaborating in this process, driving better results and accountability.
+
+You will leave this phase once you define a Product Requirements Document (PRD), explaining why you are pursuing the selected opportunity, the problem statement definition, and metrics to define success.
+
+### Planning the solution
+With the collected lessons from the previous phase, you and your team will work closely to figure out a desirable and feasible solution to the identified problem.
+
+Minimum Viable Product Tests (MVP Tests) like Concierge, Wizard Of Oz, or Smoke Test are techniques used for test desirability that, with minimal effort, will allow you to put something quickly in front of the customers and see how they react. Do the users want what we have? Are we better than the alternative? This lean approach to test for value will help you avoid investing resources that generate nothing for your company.
+
+Once motivation is validated and you have a clear value proposition, it's time to start to work on early prototypes and gain behavioral learning seeing how the customer uses it.
+
+You leave this phase with a validated prototype as a suitable solution.
+
+### Creating the solution
+Here is where product creation begins, be it software or hardware. The first release is likely to be an MVP, containing only the core product's functionalities for your customers (enthusiasts/early adopters) to gain traction in the market. 
+
+In order to define what should be included, you'll need to work closely with the Design and Development teams. The Customer Journey will help you visualize the most important functionality for the user at this stage. Like Story Mapping, prioritization techniques and frameworks will help you decide what is feasible with the available resources.
+
+You will leave this phase once you define a Product Requirements Document (PRD), explaining why you are pursuing the selected opportunity, the problem statement definition, and metrics to define success.
+
+
+### Sharing the solution
+The MPV is validated, and users love it. It's time to launch it to the public. For a successful product launch, you work with different teams to create the Go To Market Strategy in this phase. 
+
+Marketing, Sales, and Customer Support teams are some of the teams you want to get involved in comprehending how to succinctly and effectively communicate the product value proposition and how it makes the customer awesome.
+
+This phase ends when you launch the product, and you start to evaluate the performance and observe how the customers received your new creation or improvement.
+
+
+### Evaluating the solution
+The last phase is to assess how the iteration of the cycle went, compare the metrics you set in the first step, and develop new opportunities for what to do in the next iteration.
+
+During this phase, your team connects metrics and identifies the potential of the product. Features that prove not useful or don't generate engagement or revenue may be removed in the next iterations.
+
+As you continue the cycle, you should return to the discovery phase with the learnings of this iteration and start over again.
+
+
+Successful product teams have a robust and fertile learning process. They can carefully observe customers, translate them into actionable ideas for products, execute them as an experiment with observation, and then loopback. 
+
+Learning is about creating this virtuous cycle where you're releasing things with bright ideas about why you think they're going to be valuable.
 
 
 ## How Product Managers Prioritize
